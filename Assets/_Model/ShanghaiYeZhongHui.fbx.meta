@@ -1,0 +1,356 @@
+fileFormatVersion: 2
+guid: 3ffe3813328bb9f49a793a3535ac41ad
+ModelImporter:
+  serializedVersion: 20300
+  internalIDToNameTable:
+  - first:
+      74: 1827226128182048838
+    second: Take 001
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Default_Material
+    second: {fileID: 2100000, guid: 1d1e990514b65894eb345c51b6689d49, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: NoghtClub_In_EX18_M_BA_A
+    second: {fileID: 2100000, guid: 4ea25e551a69e9047bc57316c7e48f56, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: NoghtClub_In_EX18_M_BA_B
+    second: {fileID: 2100000, guid: b67e8a1a4f3c8f340beb111ccac586cd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: NoghtClub_In_EX18_M_BA_C
+    second: {fileID: 2100000, guid: 52a8d2e4b6bc45f4e8183379f294998c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: NoghtClub_In_EX18_M_BB_A
+    second: {fileID: 2100000, guid: b19df80826c0cf342805170b53ffce54, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: NoghtClub_In_EX18_M_BB_B
+    second: {fileID: 2100000, guid: 87aba078d2f13db44938e5914047b1bc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: NoghtClub_In_EX18_M_BB_C
+    second: {fileID: 2100000, guid: d98bc22021bfd1447b7ecb6d701073bd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: NoghtClub_In_EX18_M_BC_A
+    second: {fileID: 2100000, guid: eadb08c992691f04bb1fbb45c7b64f29, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: NoghtClub_In_EX18_M_BC_B
+    second: {fileID: 2100000, guid: e20b802e768a1c74fa66eb41fd0c8b60, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: NoghtClub_In_EX18_M_BC_C
+    second: {fileID: 2100000, guid: 1a43e0608d679b1419b0dc8162cc4cbc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: NoghtClub_In_EX18_M_BC_C1
+    second: {fileID: 2100000, guid: f3a82fbdd3579ea43940b8e23a95400a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: NoghtClub_In_EX18_M_BD_A
+    second: {fileID: 2100000, guid: 8a90de3f9ef6fd74fb677685aacbf387, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: NoghtClub_In_EX18_M_BD_B
+    second: {fileID: 2100000, guid: 74bccd6d70c7a3e4fa40b76cbd65fa66, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: NoghtClub_In_EX18_M_BD_C
+    second: {fileID: 2100000, guid: bb42121370c7a2b4d8313985b814755b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: NoghtClub_In_EX18_M_BE_A
+    second: {fileID: 2100000, guid: d52230ff050fd304285c22a0c011af5f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: NoghtClub_In_EX18_M_BE_B
+    second: {fileID: 2100000, guid: 753060bb6d143c445a4510af4945d09b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: NoghtClub_In_EX18_M_BE_C
+    second: {fileID: 2100000, guid: a55fcd5f10b7ceb4bbbc2a45e46b5486, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: NoghtClub_In_EX18_M_BE_D
+    second: {fileID: 2100000, guid: 3f9d87b96660f84449ed6fbdf358b3e7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: NoghtClub_In_EX18_M_Build_A
+    second: {fileID: 2100000, guid: 13faff1b9299b8d4ba0f5dc118d9b54c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: NoghtClub_In_EX18_M_Build_B
+    second: {fileID: 2100000, guid: 7788cb33d10e4394cb640ec215753067, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: NoghtClub_In_EX18_M_Build_C
+    second: {fileID: 2100000, guid: 1e0c668a879556549a66f86f58a129c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: NoghtClub_In_EX18_M_Column_A
+    second: {fileID: 2100000, guid: 6ade61ec2274557489dfe19e74a3a584, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: NoghtClub_In_EX18_M_Column_B_geo
+    second: {fileID: 2100000, guid: 1225ddfbbb8b63245ac6fbfdb1cac39a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: NoghtClub_In_EX18_M_Column_C
+    second: {fileID: 2100000, guid: 3e684fbb5fc14e24f99d26cde55e519b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: NoghtClub_In_EX18_M_Door_A
+    second: {fileID: 2100000, guid: 42d3f420d6d8a124fa7ad75fddea30c3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: NoghtClub_In_EX18_M_Door_B
+    second: {fileID: 2100000, guid: 21da2a428a6c9ae4d901d6c27a065972, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: NoghtClub_In_EX18_M_Door_C
+    second: {fileID: 2100000, guid: 6d144866a1e09e44dbde1a304f5cb551, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: NoghtClub_In_EX18_M_Door_D
+    second: {fileID: 2100000, guid: fb19b491b8bb631498cfa8db3774889e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: NoghtClub_In_EX18_M_Door_E
+    second: {fileID: 2100000, guid: 232cb602c58ac8b4b881e6ff4fad3bfa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: NoghtClub_In_EX18_M_Floor_A
+    second: {fileID: 2100000, guid: 18e6eaabe2288ef4485c4b297e1bff2a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: NoghtClub_In_EX18_M_Ground_A1
+    second: {fileID: 2100000, guid: 6e43e2fba9cea494bbca4a1127b2a4b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: NoghtClub_In_EX18_M_Ground_B
+    second: {fileID: 2100000, guid: d34346dd405b46849bb6869f2c2ece65, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: NoghtClub_In_EX18_M_Ground_C
+    second: {fileID: 2100000, guid: 6927aeb37b3496645af65a08ceba9040, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: NoghtClub_In_EX18_M_Roof_A
+    second: {fileID: 2100000, guid: fa14a2204303a5d45b514f9f17e28f7f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: NoghtClub_In_EX18_M_SA_A
+    second: {fileID: 2100000, guid: 6950b48f800ef9c4ea0e7643951d623d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: NoghtClub_In_EX18_M_SA_B
+    second: {fileID: 2100000, guid: 23544a4cf06e7fd41b0d7fafe9648a98, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: NoghtClub_In_EX18_M_SA_C
+    second: {fileID: 2100000, guid: a9aa6eeb707f93a4386b50a6aa3d0310, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: NoghtClub_In_EX18_M_SA_D
+    second: {fileID: 2100000, guid: 60cda44df23d5824db9bb4cfbc1d8452, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: NoghtClub_In_EX18_M_SA_F
+    second: {fileID: 2100000, guid: f2507b53328d795419717b269770457b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: NoghtClub_In_EX18_M_SA_G
+    second: {fileID: 2100000, guid: 4602f8c02958e60409e6e69dfaa7e329, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: NoghtClub_In_EX18_M_SA_H
+    second: {fileID: 2100000, guid: dbe57aa47e0219e4f9dfa4ba48f658d1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: NoghtClub_In_EX18_M_Sign_A
+    second: {fileID: 2100000, guid: f03bcada92d5d3e46ad2659dfec8adc8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: NoghtClub_In_EX18_M_Sign_B
+    second: {fileID: 2100000, guid: f06c49d3eac578c43881e926462bef98, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: NoghtClub_In_EX18_M_Stage_A
+    second: {fileID: 2100000, guid: 9a1c228cea5b6a740bdf17afa07f7ff0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: NoghtClub_In_EX18_M_Stage_B
+    second: {fileID: 2100000, guid: 23344f7cf09612f4daf0782310d191fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: NoghtClub_In_EX18_M_Stage_C
+    second: {fileID: 2100000, guid: 2730eb3c552ca2645a61d4472b6b1dc7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: NoghtClub_In_EX18_M_Stage_D
+    second: {fileID: 2100000, guid: 72709a900d0c04442a36fcb0bcd542e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: NoghtClub_In_EX18_M_Wall_A
+    second: {fileID: 2100000, guid: c166c637e54dcd44fbacbf10240fffc9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: NoghtClub_In_EX18_M_Wall_B
+    second: {fileID: 2100000, guid: b852011994481684193197d8f56db3b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: 05898161a39fcf640bc234cdaa3d2be0, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
